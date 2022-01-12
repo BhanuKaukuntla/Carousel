@@ -26,6 +26,6 @@ const requestUrl =
     }
 
 setTimeout(function(){
-//   buttons.click();
-  window.location.reload(1);
+  buttons.click();
+//   window.location.reload(1);
 }, 5000);
